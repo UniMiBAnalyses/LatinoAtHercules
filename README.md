@@ -1,5 +1,23 @@
 # LatinoAtHercules
 
+
+Tutorials
+====
+
+Main latino twiki page:
+
+    https://twiki.cern.ch/twiki/bin/view/CMS/LatinosTwiki
+    
+Check the tutorials:
+
+    https://twiki.cern.ch/twiki/bin/view/CMS/LatinosFrameworkTutorials
+    
+In particular, details and main idea of how mkshape+mkplot and mkshape+mkdatacard work here (from the previous link):
+
+    Plots: mkShape and mkPlot
+
+
+
 Install at Hercules 
 ====
 
